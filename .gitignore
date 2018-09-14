@@ -20,3 +20,6 @@ docs/api/
 *~
 .vscode
 test/
+
+
+.idea/*
